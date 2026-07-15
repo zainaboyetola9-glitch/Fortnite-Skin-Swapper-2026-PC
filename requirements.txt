@@ -1,0 +1,7 @@
+pywin32
+aiohttp
+dnspython
+pymem
+keyboard
+mouse
+lxml
